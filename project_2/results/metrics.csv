@@ -1,0 +1,11 @@
+image,method,mse_from_original,edge_energy
+Landscape-fabric-under-gravel,original,0.0,0.554969
+Landscape-fabric-under-gravel,mean,0.008186,0.298188
+Landscape-fabric-under-gravel,gaussian,0.003777,0.3762
+still_life,original,0.0,0.082706
+still_life,mean,0.000299,0.045464
+still_life,gaussian,0.000136,0.056112
+urban,original,0.0,0.318799
+urban,mean,0.00423,0.159224
+urban,gaussian,0.00213,0.198163
+urban,custom,0.002125,0.216446
