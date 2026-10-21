@@ -1,2 +1,6 @@
-.ipynb_checkpoints
-.venv
+/kich_ban_prompt_prism_phan_2.txt
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
